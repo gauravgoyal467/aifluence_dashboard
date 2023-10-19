@@ -1,0 +1,28 @@
+
+.numGroup p{
+    font-size: 0.6rem;
+}
+.one{
+    position: absolute;
+    top:50px;
+    left:60px
+}
+.one :first-child{
+    color:var(--darkBlue);
+}
+.two{
+    position: absolute;
+    top:20px;
+    right:75px
+}
+.two :first-child{
+    color:var(--skyBlue);
+}
+.three{
+    position: absolute;
+    bottom:12px;
+    right:70px
+}
+.three :first-child{
+    color:var(--pink);
+}

@@ -1,0 +1,7 @@
+.socialGroup{
+    display:flex;
+    flex-direction: column;
+}
+.socialGroup p{
+    font-size: 0.5rem;
+}

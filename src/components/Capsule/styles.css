@@ -1,0 +1,7 @@
+.capsule{
+    padding:0.5rem;
+    border-radius: 1.5rem;
+    font-size: 0.6rem;
+    color:var(--darkgrey);
+    border:1px solid var(--darkgrey);
+}
